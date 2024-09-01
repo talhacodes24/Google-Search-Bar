@@ -1,0 +1,47 @@
+body{
+    background-color: #1d1a1af8;
+    border: 0px solid;
+    padding: 2px;
+}
+.card{
+    display: block;
+  margin: auto;
+  margin-left: 90%;
+  margin-right: 65%;
+  width: 60%;
+  height: 60;
+  margin-top: 10%;
+  margin-bottom: 10px;
+  font-style: italic;
+}
+.container {
+     margin: auto;
+     display: inline;
+     background-color: rgb(241, 235, 235);
+     font: 1em sans-serif;
+}
+.bg {
+   text-align: center;
+   margin: auto;
+   margin-right: 10%;
+
+   
+}
+.bar{
+  width: 450px;
+  height: 30px;
+  border-radius: 34px;
+  padding: 3px;
+  color: rgb(102, 102, 102);
+  margin-right: 200px;
+}
+.spinner {
+  display: flex;
+  flex-direction: column;
+   align-items: center;
+   gap: 10px;
+  font-size: 16px;
+ padding: 4px 12px;
+ border-radius: 5px;
+  color: #fff;
+}
